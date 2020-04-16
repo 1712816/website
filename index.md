@@ -56,7 +56,7 @@
 		font-family: 'Playfair Display', serif;
 		font-size: 15px;
 		width: 42.5%;
-		height: 400px;
+		height: 300px;
 		margin-top: 25px;
 		margin-right: 5%;
 		padding: 10px;
