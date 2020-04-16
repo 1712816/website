@@ -29,8 +29,6 @@
   		margin-right: auto;
 		padding-top: 20px;
 		padding-bottom: 20px;
-		padding-left: 20px;
-		padding-right: 20px;
 		float: none;
 		
 		
@@ -69,7 +67,7 @@
 <body>
 
 <div id = "header">
-<p>T I N A S H E ' S  G R O U P W O R K</p>
+<p>F I F T Y  -  5 0  5 0</p>
 </div>
 
 <center>
