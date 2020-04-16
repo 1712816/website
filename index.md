@@ -29,6 +29,8 @@
   		margin-right: auto;
 		padding-top: 20px;
 		padding-bottom: 20px;
+		padding-left: 20px;
+		padding-right: 20px;
 		float: none;
 		
 		
